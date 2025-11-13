@@ -4,26 +4,6 @@ A clean and modern personal portfolio website built using *HTML, CSS, and JavaSc
 
 ---
 
-## 📁 Folder Structure
-
-personal-portfolio/
-├─ index.html
-├─ README.md
-├─ css/
-│  └─ style.css
-├─ js/
-│  └─ main.js
-├─ assets/
-│  ├─ images/
-│  │  └─ profile.jpg
-│  └─ projects/
-│     └─ screenshot1.jpg
-└─ downloads/
-   └─ Akshay_B_Arjun_Resume.pdf
-
-
----
-
 ## 🚀 Features
 - Fully responsive layout
 - Smooth scroll navigation
